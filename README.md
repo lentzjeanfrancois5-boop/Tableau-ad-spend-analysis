@@ -12,7 +12,7 @@ Therefore, the final recommendation is to **hold the calculated ad budget of **$
 ## 📈 Project Assets and Visualizations
 
 * **[Download the Full Tableau Workbook (`.twbx`)](Ad_Spend_Analysis_YourName.twbx)**: View all underlying sheets and data, including Profit & Loss, Customer Return Rates, and Product Return Rates.
-* **[View Critical Risk Scatter Plot (Screenshot)]([path/to/your/risk_plot.png](https://public.tableau.com/app/profile/lentz.francois/viz/Ad_Spend_Analysis_Critical_Risk_ScatterPlotLentzJeanFrancois/AVGProfitvs_AvgReturnRate?publish=yes)**: See the visualization that revealed the high-risk nature of the three identified combinations.
+* **[View Critical Risk Scatter Plot (Screenshot)](https://public.tableau.com/app/profile/lentz.francois/viz/Ad_Spend_Analysis_Critical_Risk_ScatterPlotLentzJeanFrancois/AVGProfitvs_AvgReturnRate?publish=yes)**: See the visualization that revealed the high-risk nature of the three identified combinations.
 
 ## 💰 Top 3 Identified Combinations & Potential Budget
 
