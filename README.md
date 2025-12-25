@@ -1,4 +1,5 @@
 # 🔹 Dashboard Preview  
+$6.7 K high-risk budget halted; profit margin +5.3 % after QC fix
 ![Final Project Dashboard Screenshot](./FirstScreenshot.png)
 
 🔗 **Live Dashboard (Tableau Public)** → [View Here](https://public.tableau.com/app/profile/lentz.francois/viz/Ad_Spend_Analysis_DashboardLentzJeanFrancois/OverallProjectSummary?publish=yes)
